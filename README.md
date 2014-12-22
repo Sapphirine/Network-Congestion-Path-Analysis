@@ -40,5 +40,8 @@ javax.servlet-api-3.1.0.jar
 scala-library-2.10.4.jar
 server-api-2.1.5.jar
 
+Please test the server with try.csv
+
+
 
 
